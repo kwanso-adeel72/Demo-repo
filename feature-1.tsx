@@ -1,2 +1,2 @@
 // merged
-const demo="demo by kwanso"
+const demo="demo by kwanso";
